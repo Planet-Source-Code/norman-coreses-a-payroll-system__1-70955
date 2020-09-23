@@ -1,0 +1,8 @@
+Username   Password        Database pasword
+					
+Admin      admin		engman	
+User       user
+
+	
+
+	 
